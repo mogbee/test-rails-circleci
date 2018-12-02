@@ -1,0 +1,2 @@
+class Forspec < ApplicationRecord
+end
