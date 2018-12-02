@@ -1,0 +1,5 @@
+{
+  "name": "test-rails-circleci",
+  "private": true,
+  "dependencies": {}
+}
